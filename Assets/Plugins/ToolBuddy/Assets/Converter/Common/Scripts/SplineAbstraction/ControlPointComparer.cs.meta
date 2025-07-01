@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b892cbc6f2a04f4bbc7e02984432187
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282493
+  packageName: Converter For Unity Splines
+  packageVersion: 1.3.2
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Converter/Common/Scripts/SplineAbstraction/ControlPointComparer.cs
+  uploadId: 711134

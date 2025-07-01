@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a1597f2b1461c042a76542760376000
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282493
+  packageName: Converter For Unity Splines
+  packageVersion: 1.3.2
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Converter/Unity/Scripts/Listeners/CurvySplineListener.cs
+  uploadId: 711134

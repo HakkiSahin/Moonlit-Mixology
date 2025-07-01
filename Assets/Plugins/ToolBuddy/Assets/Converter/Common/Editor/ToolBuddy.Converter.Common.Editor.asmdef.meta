@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cde8e897d104df4398f14d69f840332
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282493
+  packageName: Converter For Unity Splines
+  packageVersion: 1.3.2
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Converter/Common/Editor/ToolBuddy.Converter.Common.Editor.asmdef
+  uploadId: 711134

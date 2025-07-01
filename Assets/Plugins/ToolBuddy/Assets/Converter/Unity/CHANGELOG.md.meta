@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbfd22f77a0456a40b8ce5ace8276309
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282493
+  packageName: Converter For Unity Splines
+  packageVersion: 1.3.2
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Converter/Unity/CHANGELOG.md
+  uploadId: 711134

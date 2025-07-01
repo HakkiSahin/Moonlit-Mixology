@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6e14e24d6f719f4abfac2fb80d61f2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282493
+  packageName: Converter For Unity Splines
+  packageVersion: 1.3.2
+  assetPath: Assets/Plugins/ToolBuddy/Assets/Converter/Unity/Scripts/Converters/CurvyToUnityConverter.cs
+  uploadId: 711134
